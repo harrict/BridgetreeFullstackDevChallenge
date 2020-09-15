@@ -1,4 +1,4 @@
-# Bridgetree Developer Challenge
+# Bridgetree - Fullstack Developer Challenge
 In this challenge we would like for you to create a simple movie catalog application. The application should be built in .NET Core and Angular within a Docker container. Please also use a form of persistent storage to store the movie data. Below are the basic requirements:
 
 * Movie Attributes: 
